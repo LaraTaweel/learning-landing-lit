@@ -6,7 +6,7 @@ export class MyHero extends LitElement {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 60px 0px; /* صفرنا الأطراف */
+  padding: 60px 0px;
   // width: 100%;
   margin-left:40px;
 }
@@ -34,9 +34,9 @@ export class MyHero extends LitElement {
     }
 
     .hero-image img {
-  width: 500px; /* تم تكبير الصورة أكثر */
+  width: 500px; 
   max-width: 100%;
-  margin: 0px; /* تبعد عن الطرف */
+  margin: 0px; 
 }
 
 
