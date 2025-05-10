@@ -8,7 +8,7 @@ export class footer extends LitElement {
     }
 
     .newsletter-section {
-      background-color: #1f1f5c; /* كحلي */
+      background-color: #1f1f5c; 
       color: white;
       text-align: center;
       padding: 60px 20px 40px;
@@ -54,7 +54,7 @@ export class footer extends LitElement {
     }
 
     .footer {
-      background: white; /* خلفية الفوتر */
+      background: white; 
       padding: 40px 20px 20px;
       color: #333;
     }
