@@ -1,0 +1,14 @@
+{
+  "name": "learning-landing-lit",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "lit": "^2.7.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
